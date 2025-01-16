@@ -1,0 +1,33 @@
+/*
+* {
+    margin: 0;
+    padding: 0;
+}
+*/
+
+
+.box-1 {
+    background-color: #333;
+    color: #fff;
+    border: 5px red solid;
+    border-width: 5px;
+    border-bottom-width: 10px;
+    padding-top: 20px;
+}
+
+.container p {
+    font-family: "Times New Roman", Arial;
+    font-size: 2em;
+    line-height: 2;
+    font-style: italic;
+    background-color: aqua;
+    color: white;
+    border: 5px red solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+.container h1 {
+    font-variant: small-caps;
+}
+ 
